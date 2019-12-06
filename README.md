@@ -9,7 +9,7 @@ Alberto Ornelas,
 Jesus Gil,
 Jesus Villalobos
 ----------------------------------------
-Estudiantes de Ing. Sistemas de informacion
+Estudiantes de Ing. Sistemas de información
 Univeridad de Sonora
 
 
