@@ -1,3 +1,15 @@
 # MVCProjectoCliente
-Este es un proyecto para la materia de Desarrollo de Sistemas Vl
-El cual este es lado que verá el cliente, con una interfaz muy agradable para su uso
+Projecto para Desarrollo de Sistemas Vl
+Este es el lado del Cliente, donde tiene su interzas visual, para manipular el sistema
+Comparte la misma interface para utilizar Proxy Remoto y que el servidor haga todo el trabajo pesado que el cliente necesite
+
+---------------------------------------
+Este proyecto fue hecho por:
+Alberto Ornelas, 
+Jesus Gil,
+Jesus Villalobos
+----------------------------------------
+Estudiantes de Ing. Sistemas de informacion
+Univeridad de Sonora
+
+
